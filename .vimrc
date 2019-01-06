@@ -2,7 +2,6 @@ set nocompatible
 
 set number                 " Line numbers
 syntax enable              " syntax highlighting
-colorscheme nord
 
 filetype plugin indent on
 filetype indent on
