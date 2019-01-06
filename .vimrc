@@ -2,6 +2,7 @@ set nocompatible
 
 set number                 " Line numbers
 syntax enable              " syntax highlighting
+colorscheme slate
 
 filetype plugin indent on
 filetype indent on
@@ -14,4 +15,3 @@ set shiftround             " always to nearest tabstop
 set expandtab              "use spaces instead of tab 
 set smarttab               "use tabs at start of line, spaces elsewhere
 set ignorecase             "searches are case-insensitive
-set colorcolumn 90         "color column 90
